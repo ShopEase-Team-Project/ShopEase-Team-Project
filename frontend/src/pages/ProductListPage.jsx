@@ -80,27 +80,27 @@ function ProductListPage() {
                   </button>
                 </div>
 
-                <div className="hero-stats mt-4">
+                {/* <div className="hero-stats mt-4">
                   <div className="hero-stat-box">
                     <h4>{products.length}+</h4>
                     <p>Products</p>
                   </div>
                   <div className="hero-stat-box">
-                    <h4>{categories.length}+</h4>
+                    <h4>{categories.length}</h4>
                     <p>Categories</p>
                   </div>
                   <div className="hero-stat-box">
-                    <h4>24/7</h4>
+                    <h4></h4>
                     <p>Support</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
 
             <div className="col-lg-6">
               <div className="hero-right">
                 <img
-                  src="https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=1200&q=80"
+                  src="../assets/image.png"
                   alt="ShopEase Banner"
                   className="hero-banner-image"
                 />
