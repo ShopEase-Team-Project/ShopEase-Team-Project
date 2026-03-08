@@ -100,7 +100,7 @@ function ProductListPage() {
             <div className="col-lg-6">
               <div className="hero-right">
                 <img
-                  src="../assets/image.png"
+                  src="https://i.pinimg.com/736x/b5/e8/f4/b5e8f40f058cd41615d062827cf768ee.jpg"
                   alt="ShopEase Banner"
                   className="hero-banner-image"
                 />
