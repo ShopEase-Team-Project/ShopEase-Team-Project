@@ -1,21 +1,51 @@
-<<<<<<< HEAD
+# ShopEase-Team-Project
 
-=======
-## ShopEase-Team-Project
+# ShopEase – Online Product & Order Management System
 
-## ShopEase – Online Product & Order Management System
-
-##  Project Overview
+## Project Overview
 ShopEase is a web-based platform designed to manage online products, customers, and orders efficiently.  
 It provides a streamlined interface for both administrators and users to manage product listings, track orders, and maintain customer data.
 
+The system helps improve the shopping and order handling process by offering an organized platform for product management, inventory updates, customer interaction, and order tracking.
+
 ---
 
-##  Features
+## System Workflow
+
+The following diagram explains the workflow of the ShopEase platform including user roles, authentication, services, and database interaction.
+
+![ShopEase Architecture](flowchat.png)
+
+## Features
 - User Registration & Login
+- Secure Authentication & Authorization
 - Product Catalog Management
-- Order Processing & Tracking
+- Seller Product Management
+- Cart and Order Placement
+- Customer Order Tracking
+- Seller Order Management
 - Admin Dashboard
 - Inventory Management
-- Secure Authentication
->>>>>>> 9362f4337fa903c4426433119ecc11b877246666
+- Category Management
+- User Management
+
+---
+
+
+## Project Structure
+ShopEase-Team-Project/
+│── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+│── backend/
+│   ├── src/main/java/
+│   ├── src/main/resources/
+│   └── pom.xml
+│
+│── database/
+│   └── schema.sql
+│
+└── README.md
+
