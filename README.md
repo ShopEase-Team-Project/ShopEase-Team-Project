@@ -31,6 +31,7 @@ The following diagram explains the workflow of the ShopEase platform including u
 - Secure Authentication
 
 ## Project Structure
+```
 ShopEase-Team-Project/
 │── frontend/
 │   ├── src/
@@ -46,3 +47,4 @@ ShopEase-Team-Project/
 │   └── schema.sql
 │
 └── README.md
+```
