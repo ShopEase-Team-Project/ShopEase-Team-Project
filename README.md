@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 ## ShopEase-Team-Project
 
 ## ShopEase – Online Product & Order Management System
@@ -15,3 +18,4 @@ It provides a streamlined interface for both administrators and users to manage 
 - Admin Dashboard
 - Inventory Management
 - Secure Authentication
+>>>>>>> 9362f4337fa903c4426433119ecc11b877246666
