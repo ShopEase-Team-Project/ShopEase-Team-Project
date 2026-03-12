@@ -13,8 +13,10 @@ The system helps improve the shopping and order handling process by offering an 
 ## System Workflow
 
 The following diagram explains the workflow of the ShopEase platform including user roles, authentication, services, and database interaction.
+<p align="center">
+  <img src="flowchat.png" width="700" height="900" alt="ShopEase Flowchart">
+</p>
 
-![ShopEase Architecture](flowchat.png)
 
 ## Features
 - User Registration & Login
