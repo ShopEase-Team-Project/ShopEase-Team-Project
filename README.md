@@ -29,4 +29,20 @@ The following diagram explains the workflow of the ShopEase platform including u
 - Admin Dashboard
 - Inventory Management
 - Secure Authentication
->>>>>>> 9362f4337fa903c4426433119ecc11b877246666
+
+## Project Structure
+ShopEase-Team-Project/
+│── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+│── backend/
+│   ├── src/main/java/
+│   ├── src/main/resources/
+│   └── pom.xml
+│
+│── database/
+│   └── schema.sql
+│
+└── README.md
